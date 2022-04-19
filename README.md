@@ -5,20 +5,21 @@
 This repository is submitted to Nanyang Technological University as part of a graded assignment for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on [Severity of Road Accidents in the US](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents). 
 
 ## Contributors
-Nanyang Technological University School of Computer Science and Engineering
+School of Computer Science and Engineering, NTU Singapore \
 AY2021/22 SC1015 ECAD1 Group 8
 
 - NG YONG JIAN C210057@E.NTU.EDU.SG
 - KEVIN YOK KYOK001@E.NTU.EDU.SG
 - LIV TAN KER JIN LIVT0001@E.NTU.EDU.SG
 
-## Datasets folder
-- `Dataset`: original dataset from kaggle
+## Folders
+### Datasets folder
+- `Original Dataset`: original dataset from kaggle
 - `us_accident_2016_cleaned`: original dataset cleaned with 20 columns, no NULL, removed outliers, only 2016 data
 - `us_16_acd_ohe`: `us_accident_2016_cleaned` with categorical variables being one hot encoded  
 - `us_16_acd_ohe_up`: `us_16_acd_ohe` with severity 3 and 4 upsampled
 
-## Jupyter Notebook Folder
+### Jupyter Notebook Folder
 For detailed walkthrough, please view the source code in order from:
 1. [Complete Data Cleaning & Visualization](https://github.com/NgYJ02/sc1015_miniproject/blob/main/Jupyter%20Notebook/Complete%20Data%20Cleaning%20%26%20Visualization.ipynb)
 2. [Data Visualization via Tableau](https://github.com/NgYJ02/sc1015_miniproject/blob/main/Jupyter%20Notebook/Data%20Visualization%20via%20Tableau.ipynb)
@@ -26,18 +27,18 @@ For detailed walkthrough, please view the source code in order from:
 4. [Machine Learning 2](https://github.com/NgYJ02/sc1015_miniproject/blob/main/Jupyter%20Notebook/Machine%20Learning%202.ipynb)
 5. [Machine Learning 3](https://github.com/NgYJ02/sc1015_miniproject/blob/main/Jupyter%20Notebook/Machine%20Learning%203.ipynb)
 
-## Others Folder
+### Others Folder
 - SC1015 Mini Project - Presentation: The slides provide a quick summary of our project.
 - SC1015 Mini Project - Tableau: Summary for EDA.
 - SC1015 Mini Project - Video Transcript
-- Tableau Public Link: Link to Tableu Public.
+- Tableau Public Link: Link to Tableau Public.
 
 ## Problem Definition
 - How do different factors affect severity of road accidents in the US?
 - Which model would be the best to predict severity of accidents in the US?
 
 ## Models Used
-1. Ordinary Least Squares Linear Regression(OLS)
+1. Ordinary Least Squares (OLS) Linear Regression
 2. OneHotEncoder
 3. Grid Search Cross-Validation
 4. Decision Tree Classifier
@@ -45,7 +46,6 @@ For detailed walkthrough, please view the source code in order from:
 6. Balanced Bagging Classifier
 7. Balanced Random Forest Classifier
 8. Logistic Regression
-9. Eli 5
 
 ## Conclusion
 - Severity and distance a positive relationship.
@@ -62,7 +62,8 @@ For detailed walkthrough, please view the source code in order from:
 - Others:
   - Utility models: Simple Imputer, Standard Scalar, One Hot Encoder, Resample, Grid Search CV, Eli5
 - Tableu:
-  - Visualization: Tableu desktop, Tableu public
+  - Visualization: Tableau desktop, Tableau public
+- Collaborating on Github
 
 ## References
 - Moosavi, S., Mohammad, S., Srinivasan, P., & Rajiv, R. (2019). A Countrywide Traffic Accident Dataset. https://www.kaggle.com/sobhanmoosavi/us-accidents ​
