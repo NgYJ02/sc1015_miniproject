@@ -14,9 +14,9 @@ This repository is submitted to Nanyang Technological University as part of a gr
 Nanyang Technological University School of Computer Science and Engineering
 AY2021/22 SC1015 ECAD1 Group 8
 
-NG YONG JIAN C210057@E.NTU.EDU.SG
-KEVIN YOK KYOK001@E.NTU.EDU.SG
-LIV TAN KER JIN LIVT0001@E.NTU.EDU.SG
+- NG YONG JIAN C210057@E.NTU.EDU.SG
+- KEVIN YOK KYOK001@E.NTU.EDU.SG
+- LIV TAN KER JIN LIVT0001@E.NTU.EDU.SG
 
 ## Problem Definition
 - How do different factors affect severity of road accidents in the US?
@@ -41,9 +41,9 @@ LIV TAN KER JIN LIVT0001@E.NTU.EDU.SG
 
 ## What did we learn from this project?
 
-Scikit-learn:
-- Regression: OLS Regression
-- Classification: Decision Tree Classifier, Random Forest Classifier
+-Scikit-learn:
+-  Regression: OLS Regression
+-  Classification: Decision Tree Classifier, Random Forest Classifier
 
 ImbLearn:
 - Classification: Balanced Bagging Classifier, Balanced Random Forest Classifier
