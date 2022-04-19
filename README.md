@@ -3,6 +3,7 @@
 ## Repository Description
 
 This repository is submitted to Nanyang Technological University as part of a graded assignment for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on [Severity of Road Accidents in the US](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents). 
+![sc1015 presentation cover page](https://user-images.githubusercontent.com/91600220/163967462-fa5586a9-a7b8-4081-9ed5-d70eef92489e.png)
 
 ## Contributors
 School of Computer Science and Engineering, NTU Singapore \
