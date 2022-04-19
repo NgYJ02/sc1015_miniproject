@@ -2,13 +2,7 @@
 
 ## Repository Description
 
-This repository is submitted to Nanyang Technological University as part of a graded assignment for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on [Severity of Road Accidents in the US](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents). For detailed walkthrough, please view the source code in order from:
-
-1. [Complete Data Cleaning & Visualization](https://github.com/NgYJ02/sc1015_miniproject/blob/main/Jupyter%20Notebook/Complete%20Data%20Cleaning%20%26%20Visualization.ipynb)
-2. [Data Visualization via Tableau](https://github.com/NgYJ02/sc1015_miniproject/blob/main/Jupyter%20Notebook/Data%20Visualization%20via%20Tableau.ipynb)
-3. [Machine Learning 1](https://github.com/NgYJ02/sc1015_miniproject/blob/main/Jupyter%20Notebook/Machine%20Learning%201.ipynb)
-4. [Machine Learning 2](https://github.com/NgYJ02/sc1015_miniproject/blob/main/Jupyter%20Notebook/Machine%20Learning%202.ipynb)
-5. [Machine Learning 3](https://github.com/NgYJ02/sc1015_miniproject/blob/main/Jupyter%20Notebook/Machine%20Learning%203.ipynb)
+This repository is submitted to Nanyang Technological University as part of a graded assignment for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on [Severity of Road Accidents in the US](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents). 
 
 ## Contributors
 Nanyang Technological University School of Computer Science and Engineering
@@ -23,6 +17,20 @@ AY2021/22 SC1015 ECAD1 Group 8
 - `us_accident_2016_cleaned`: original dataset cleaned with 20 columns, no NULL, removed outliers, only 2016 data
 - `us_16_acd_ohe`: `us_accident_2016_cleaned` with categorical variables being one hot encoded  
 - `us_16_acd_ohe_up`: `us_16_acd_ohe` with severity 3 and 4 upsampled
+
+## Jupyter Notebook Folder
+For detailed walkthrough, please view the source code in order from:
+1. [Complete Data Cleaning & Visualization](https://github.com/NgYJ02/sc1015_miniproject/blob/main/Jupyter%20Notebook/Complete%20Data%20Cleaning%20%26%20Visualization.ipynb)
+2. [Data Visualization via Tableau](https://github.com/NgYJ02/sc1015_miniproject/blob/main/Jupyter%20Notebook/Data%20Visualization%20via%20Tableau.ipynb)
+3. [Machine Learning 1](https://github.com/NgYJ02/sc1015_miniproject/blob/main/Jupyter%20Notebook/Machine%20Learning%201.ipynb)
+4. [Machine Learning 2](https://github.com/NgYJ02/sc1015_miniproject/blob/main/Jupyter%20Notebook/Machine%20Learning%202.ipynb)
+5. [Machine Learning 3](https://github.com/NgYJ02/sc1015_miniproject/blob/main/Jupyter%20Notebook/Machine%20Learning%203.ipynb)
+
+## Others Folder
+- SC1015 Mini Project - Presentation: The slides provide a quick summary of our project.
+- SC1015 Mini Project - Tableau: Summary for EDA.
+- SC1015 Mini Project - Video Transcript
+- Tableau Public Link: link to Tableu Public.
 
 ## Problem Definition
 - How do different factors affect severity of road accidents in the US?
