@@ -20,7 +20,7 @@ AY2021/22 SC1015 ECAD1 Group 8
 
 ## Datasets folder
 - us_accident_2016_cleaned: cleaned 2016 dataset with 20 columns, no NULL, removed outliers
-- us_16_acd_ohe: us_accident_2016_cleaned with categoriacal variables being one hot encoded  
+- us_16_acd_ohe: `us_accident_2016_cleaned` with categorical variables being one hot encoded  
 - us_16_acd_ohe_up: us_16_acd_ohe with severity 3 and 4 upsampled
 
 ## Problem Definition
