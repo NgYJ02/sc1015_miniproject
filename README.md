@@ -18,6 +18,11 @@ AY2021/22 SC1015 ECAD1 Group 8
 - KEVIN YOK KYOK001@E.NTU.EDU.SG
 - LIV TAN KER JIN LIVT0001@E.NTU.EDU.SG
 
+## Datasets folder
+- us_16_acd_ohe: one hot encoded 2016 dataset (20 columns, no NULL, 
+- us_16_acd_ohe_up
+- us_accident_2016_cleaned
+
 ## Problem Definition
 - How do different factors affect severity of road accidents in the US?
 - Which model would be the best to predict severity of accidents in the US?
