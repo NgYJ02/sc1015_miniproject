@@ -19,6 +19,7 @@ AY2021/22 SC1015 ECAD1 Group 8
 - LIV TAN KER JIN LIVT0001@E.NTU.EDU.SG
 
 ## Datasets folder
+- `Dataset`: original dataset from kaggle
 - `us_accident_2016_cleaned`: original dataset cleaned with 20 columns, no NULL, removed outliers, only 2016 data
 - `us_16_acd_ohe`: `us_accident_2016_cleaned` with categorical variables being one hot encoded  
 - `us_16_acd_ohe_up`: `us_16_acd_ohe` with severity 3 and 4 upsampled
