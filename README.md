@@ -4,11 +4,11 @@
 
 This repository is submitted to Nanyang Technological University as part of a graded assignment for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on [Severity of Road Accidents in the US](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents). For detailed walkthrough, please view the source code in order from:
 
-1. [Complete Data Cleaning & Visualization]()
-2. [Data Visualization via Tableau]()
-3. [Machine Learning 1]()
-4. [Machine Learning 2]()
-5. [Machine Learning 3]()
+1. [Complete Data Cleaning & Visualization](https://github.com/NgYJ02/sc1015_miniproject/blob/main/Jupyter%20Notebook/Complete%20Data%20Cleaning%20%26%20Visualization.ipynb)
+2. [Data Visualization via Tableau](https://github.com/NgYJ02/sc1015_miniproject/blob/main/Jupyter%20Notebook/Data%20Visualization%20via%20Tableau.ipynb)
+3. [Machine Learning 1](https://github.com/NgYJ02/sc1015_miniproject/blob/main/Jupyter%20Notebook/Machine%20Learning%201.ipynb)
+4. [Machine Learning 2](https://github.com/NgYJ02/sc1015_miniproject/blob/main/Jupyter%20Notebook/Machine%20Learning%202.ipynb)
+5. [Machine Learning 3](https://github.com/NgYJ02/sc1015_miniproject/blob/main/Jupyter%20Notebook/Machine%20Learning%203.ipynb)
 
 ## Contributors
 Nanyang Technological University School of Computer Science and Engineering
