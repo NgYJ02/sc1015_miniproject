@@ -4,11 +4,11 @@
 
 This repository is submitted to Nanyang Technological University as part of a graded assignment for SC1015 (Introduction to Data Science and Artificial Intelligence) which focuses on [Severity of Road Accidents in the US](https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents). For detailed walkthrough, please view the source code in order from:
 
-1.[Complete Data Cleaning & Visualization - 14042022]()
-2.[Data Visualization via Tableau - 07042022]()
-3.[Machine Learning 1 - 07042022]()
-4.[Machine Learning 2 - 07042022]()
-5.[Machine Learning 3 - 15042022]()
+1. [Complete Data Cleaning & Visualization - 14042022]()
+2. [Data Visualization via Tableau - 07042022]()
+3. [Machine Learning 1 - 07042022]()
+4. [Machine Learning 2 - 07042022]()
+5. [Machine Learning 3 - 15042022]()
 
 ## Contributors
 Nanyang Technological University School of Computer Science and Engineering
