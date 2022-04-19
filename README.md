@@ -42,17 +42,14 @@ AY2021/22 SC1015 ECAD1 Group 8
 ## What did we learn from this project?
 
 - Scikit-learn:
--  Regression: OLS Regression
--  Classification: Decision Tree Classifier, Random Forest Classifier
-
-ImbLearn:
-- Classification: Balanced Bagging Classifier, Balanced Random Forest Classifier
-
-Others:
-- Utility models: Simple Imputer, Standard Scalar, One Hot Encoder, Resample, Grid Search CV, Eli5
-
-Tableu:
-- Visualization: Tableu desktop, Tableu public
+  - Regression: OLS Regression
+  - Classification: Decision Tree Classifier, Random Forest Classifier
+- ImbLearn:
+  - Classification: Balanced Bagging Classifier, Balanced Random Forest Classifier
+- Others:
+  - Utility models: Simple Imputer, Standard Scalar, One Hot Encoder, Resample, Grid Search CV, Eli5
+- Tableu:
+  - Visualization: Tableu desktop, Tableu public
 
 ## References
 
