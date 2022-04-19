@@ -41,7 +41,7 @@ AY2021/22 SC1015 ECAD1 Group 8
 
 ## What did we learn from this project?
 
--Scikit-learn:
+- Scikit-learn:
 -  Regression: OLS Regression
 -  Classification: Decision Tree Classifier, Random Forest Classifier
 
