@@ -30,7 +30,7 @@ For detailed walkthrough, please view the source code in order from:
 - SC1015 Mini Project - Presentation: The slides provide a quick summary of our project.
 - SC1015 Mini Project - Tableau: Summary for EDA.
 - SC1015 Mini Project - Video Transcript
-- Tableau Public Link: link to Tableu Public.
+- Tableau Public Link: Link to Tableu Public.
 
 ## Problem Definition
 - How do different factors affect severity of road accidents in the US?
