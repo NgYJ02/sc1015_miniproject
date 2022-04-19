@@ -19,9 +19,9 @@ AY2021/22 SC1015 ECAD1 Group 8
 - LIV TAN KER JIN LIVT0001@E.NTU.EDU.SG
 
 ## Datasets folder
-- us_16_acd_ohe: one hot encoded 2016 dataset (20 columns, no NULL, 
-- us_16_acd_ohe_up
-- us_accident_2016_cleaned
+- us_accident_2016_cleaned: cleaned 2016 dataset with 20 columns, no NULL, removed outliers
+- us_16_acd_ohe: us_accident_2016_cleaned with categoriacal variables being one hot encoded  
+- us_16_acd_ohe_up: us_16_acd_ohe with severity 3 and 4 upsampled
 
 ## Problem Definition
 - How do different factors affect severity of road accidents in the US?
@@ -45,7 +45,6 @@ AY2021/22 SC1015 ECAD1 Group 8
 - Most accidents happen during peak hours on weekdays, especially in California, when the car is on the right side of the street, and when there is no crossing, no junction, and no traffic signals. Perhaps this can be improved by reducing the number of cars allowed on the street and to have more traffic signals.
 
 ## What did we learn from this project?
-
 - Scikit-learn:
   - Regression: OLS Regression
   - Classification: Decision Tree Classifier, Random Forest Classifier
@@ -57,7 +56,6 @@ AY2021/22 SC1015 ECAD1 Group 8
   - Visualization: Tableu desktop, Tableu public
 
 ## References
-
 - Moosavi, S., Mohammad, S., Srinivasan, P., & Rajiv, R. (2019). A Countrywide Traffic Accident Dataset. https://www.kaggle.com/sobhanmoosavi/us-accidents ​
 - Moosavi, S., Mohammad, S., Srinivasan, P., Radu, T., & Rajiv, R. (2019). Accident Risk Prediction based on Heterogeneous Sparse Data: New Dataset and Insights. In proceedings of the 27th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems, ACM, 2019. ​
 - Road Safety Facts — Association for Safe International Road Travel. (2022, January 10). Association for Safe International Road Travel. https://www.asirt.org/safe-travel/road-safety-facts/ ​
