@@ -56,7 +56,7 @@ For detailed walkthrough, please view the source code in order from:
 
 ## What did we learn from this project?
 - Scikit-learn:
-  - Regression: OLS Regression
+  - Regression: OLS Regression, Logistic Regression
   - Classification: Decision Tree Classifier, Random Forest Classifier
 - ImbLearn:
   - Classification: Balanced Bagging Classifier, Balanced Random Forest Classifier
