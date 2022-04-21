@@ -9,9 +9,9 @@ This repository is submitted to Nanyang Technological University as part of a gr
 School of Computer Science and Engineering, NTU Singapore \
 AY2021/22 SC1015 ECAD1 Group 8
 
-- NG YONG JIAN C210057@E.NTU.EDU.SG
-- KEVIN YOK KYOK001@E.NTU.EDU.SG
-- LIV TAN KER JIN LIVT0001@E.NTU.EDU.SG
+- NG YONG JIAN C210057@E.NTU.EDU.SG (Data Preparation, Exploratory Data Analysis, Machine Learning)
+- KEVIN YOK KYOK001@E.NTU.EDU.SG (Machine Learning, Presentation Slides)
+- LIV TAN KER JIN LIVT0001@E.NTU.EDU.SG (Machine Learning, Presentation Scripts)
 
 ## Folders
 ### Datasets Folder
