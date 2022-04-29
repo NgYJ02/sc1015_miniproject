@@ -62,7 +62,7 @@ For detailed walkthrough, please view the source code in order from:
   - Classification: Balanced Bagging Classifier, Balanced Random Forest Classifier
 - Others:
   - Utility models: Simple Imputer, Standard Scalar, One Hot Encoder, Resample, Grid Search CV, Eli5
-- Tableu:
+- Tableau:
   - Visualization: Tableau desktop, Tableau public
 - Collaborating on Github
 
